@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @momin-Imran
+- 👋 Hi, I’m Momin!
 - 👀 I’m interested in Full-Stack Development 
 - 🌱 I’m currently learning JS, React, Next, TailwindCSS, Node, Java, TS and essentially whatever will help me build my projects!
 - 💞️ I’m looking to collaborate on anything! I love to learn.
