@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything! I love to learn.
 - 📫 How to reach me: get in touch on momini1@umbc.edu!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can successfully center a div 👀
+- ⚡ Fun fact: I can successfully center a div 👀 
 
 <!---
 momin-Imran/momin-Imran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
