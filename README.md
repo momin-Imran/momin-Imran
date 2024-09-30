@@ -6,9 +6,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can successfully center a div 👀 
 
-🔗 Let’s connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominimran1)
-- https://www.linkedin.com/in/mominimran1/
+🔗 Let’s connect: 
+
+ <a href="www.linkedin.com/in/mominimran1">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" width="20" height="20" >
+</a>
+ www.linkedin.com/in/mominimran1
 
 <!---
 momin-Imran/momin-Imran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
