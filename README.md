@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JS, React, Next, TailwindCSS, Node, Java, TS and essentially whatever will help me build my projects!
 - 💞️ I’m looking to collaborate on anything! I love to learn.
 - 📫 How to reach me: get in touch on momini1@umbc.edu!
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can successfully center a div 👀 
 
 🔗 Let’s connect: 
