@@ -5,16 +5,13 @@
 - 📫 How to reach me: get in touch on momini1@umbc.edu!
 - ⚡ Fun fact: I can successfully center a div 👀 
 - 😎 Check out my pinned repositories BELOW to see my latest projects! 
+
 🔗 Let’s connect: 
 
  <a href="www.linkedin.com/in/mominimran1">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" width="20" height="20" >
 </a>
  www.linkedin.com/in/mominimran1
-
-
-
-Check out my pinned repositories BELOW to see my latest projects! 😎
 
 <!---
 momin-Imran/momin-Imran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
