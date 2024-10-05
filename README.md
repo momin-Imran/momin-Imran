@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything! I love to learn.
 - 📫 How to reach me: get in touch on momini1@umbc.edu!
 - ⚡ Fun fact: I can successfully center a div 👀 
-
+- 😎 Check out my pinned repositories BELOW to see my latest projects! 
 🔗 Let’s connect: 
 
  <a href="www.linkedin.com/in/mominimran1">
