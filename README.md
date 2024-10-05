@@ -12,6 +12,8 @@
 </a>
  www.linkedin.com/in/mominimran1
 
+Check out my pinned repositories BELOW to see my latest projects! 😎
+
 <!---
 momin-Imran/momin-Imran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
